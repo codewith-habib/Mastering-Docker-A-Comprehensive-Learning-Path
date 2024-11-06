@@ -14,28 +14,28 @@ Docker is a powerful tool for containerization, enabling you to deploy and manag
 
 By the end of this course, you will be able to:
 
-    - Design and implement containerized applications
-    - Create efficient Docker images with best practices
-    - Manage multi-container applications using Docker Compose
-    - Implement proper security measures for Docker deployments
-    - Debug and troubleshoot Docker containers
+- Design and implement containerized applications
+- Create efficient Docker images with best practices
+- Manage multi-container applications using Docker Compose
+- Implement proper security measures for Docker deployments
+- Debug and troubleshoot Docker containers
 
 ---
 
 ## 📚 Table of Contents
 
-1. [Understanding Docker Fundamentals](#M1-Understanding-Docker-Fundamentals)
+1. [Understanding Docker Fundamentals](#m1-understanding-docker-fundamentals)
 2. [Docker Commands and Container Management](#m2-docker-commands-and-container-management)
 3. [Exploring and Making Custom Images](#m3-exploring-and-making-custom-images)
 4. [Building Applications with Docker](#m4-building-applications-with-docker)
 5. [Docker Networking](#m5-docker-networking)
 6. [Docker Storage and Volumes](#m6-docker-storage-and-volumes)
 7. [Docker Compose](#m7-docker-compose)
-8. [Docker Build](#docker-build)
+8. [Docker Build](#m8-docker-build)
 
 ## Course Content
 
-### 1. Understanding Docker Fundamentals
+### <a name="m1-understanding-docker-fundamentals"></a> 1. Understanding Docker Fundamentals
 
 - Introduction to Docker and its benefits
 - Docker Architecture and Ecosystem
@@ -43,10 +43,10 @@ By the end of this course, you will be able to:
 - Docker Installation with WSL on Windows 10/11
 - Core Concepts: Containers and Images
 - Docker's Usage of Linux kernel
-- Internal Docker MMchanisms and Operations
+- Internal Docker Mechanisms and Operations
 - How Docker Works on Our Machine
 
-### 2. Docker Commands and Container Management
+### <a name="m2-docker-commands-and-container-management"></a> 2. Docker Commands and Container Management
 
 - Using the Docker Client
 - Container Lifecycle Management
@@ -63,7 +63,7 @@ By the end of this course, you will be able to:
 - Understanding the `-it` Flag and Getting a Shell Prompt
 - Container Isolation and Security
 
-### 3. Exploring and Making Custom Images
+### <a name="m3-exploring-and-making-custom-images"></a> 3. Exploring and Making Custom Images
 
 - Understanding Docker Images
 - Dockerfile Creation and Structure
@@ -76,7 +76,7 @@ By the end of this course, you will be able to:
 - Image Layers and Caching a bit
 - Container-to-Image Conversion
 
-### 4. Building Application with Docker
+### <a name="m4-building-applications-with-docker"></a> 4. Building Applications with Docker
 
 - Writing Express Code
 - Building its Dockerfile
@@ -84,7 +84,7 @@ By the end of this course, you will be able to:
 - Image Tagging Best Practices
 - Pushing Image to DockerHub
 
-### 5. Docker Networking
+### <a name="m5-docker-networking"></a> 5. Docker Networking
 
 - Understanding Docker Networking
 - Network types and use cases:
@@ -97,7 +97,7 @@ By the end of this course, you will be able to:
   - None network
 - Container IP Address Assignment
 
-### 6. Docker Storage | Volumes
+### <a name="m6-docker-storage-and-volumes"></a> 6. Docker Storage and Volumes
 
 - Storage Approaches and Strategies
 - Volume management:
@@ -107,7 +107,7 @@ By the end of this course, you will be able to:
 - Configuring Read-Only and Read-Write Volumes
 - Volume Drivers
 
-### 7. Docker Compose
+### <a name="m7-docker-compose"></a> 7. Docker Compose
 
 - Introduction to Docker Compose and Its Benefits
 - Multi-container Application Management
@@ -128,7 +128,7 @@ By the end of this course, you will be able to:
   - `Health check`
 - Startup Order Control
 
-### 8. Docker Build
+### <a name="m8-docker-build"></a> 8. Docker Build
 
 - Introduction to Docker Build Tool
 - Buildx and BuildKit: Features and Setup
