@@ -46,7 +46,7 @@ By completing this module, you will:
 
 ## ⏭️ Next Steps
 
-Congratulations on completing the Docker In Simple course! You now have a comprehensive understanding of Docker and its components. Consider exploring advanced topics or applying your new skills to real-world projects.
+Updating Next
 
 ---
 
